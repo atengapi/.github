@@ -1,5 +1,7 @@
 # AtenGAPI - AtenTEC's Flagship Technology
 
+![Banner Image](https://www.atentec.com/_next/static/media/logo-atengapi-dark.f451ef29.svg)
+
 At the heart of AtenTEC technology stack is AtenGAPI, an ultra-optimized API engine designed for high-speed data processing, AI-driven query optimization, and seamless concurrency support. Unlike traditional API layers, AtenGAPI is not just a middleware—it is a powerful computational engine built to handle complex workflows in DAG structure, massive datasets, and high-frequency transactions with minimal resource consumption.
 
 ## Unmatched Performance
